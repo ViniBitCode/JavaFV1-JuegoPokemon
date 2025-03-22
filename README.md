@@ -6,6 +6,8 @@
 🐕‍🦺 | A diferencia de la proghramacion web, el usar la logica para hacer estas apps me llama mucho mas la atencion. Es por esto que decido recrear uno de mis primeros proyectos pero haciendo uso de JavaSwing!
 
 Tecnicas/Tecnologias usadas para el proyecto que considero interesantes:
+
 . JavaSwing como interfaz grafica.
+
 . Implementacion de POO para crear los pokemones.
 
